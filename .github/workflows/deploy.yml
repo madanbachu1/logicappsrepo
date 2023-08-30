@@ -1,0 +1,3 @@
+              - name: Deploy Azure Resource Manager (ARM) Template
+                uses: Azure/arm-deploy@v1
+            
